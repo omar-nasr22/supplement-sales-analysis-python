@@ -1,6 +1,6 @@
 # Supplement Sales Data Analysis
 
-This repository contains a data analysis project focused on supplement product sales, using Python and key data analysis libraries. The goal is to extract actionable business insights and visualize sales trends based on product type, location, time, and discount strategies.
+This repository contains a data analysis project focused on supplement product sales, using **Python** and key data analysis libraries. The goal is to extract actionable business insights and visualize sales trends based on product type, location, time, and discount strategies.
 
 ---
 
